@@ -1,6 +1,6 @@
 # Alarm
 Your alarm goes off.  What do you do?
 
-[Wake up and get ready](work.md)
+[Wake up and get ready](situations/work.md)
 
-[Hit snooze!](fired.md)
+[Hit snooze!](situations/fired.md)
